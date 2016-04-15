@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AddPost</string>
+
+    <string-array name="cars">
+        <item >Repair</item>
+        <item>Service</item>
+        <item>Rental</item>
+    </string-array>
+
+
+    <string-array name="catogries">
+        <item>cars</item>
+        <item>electronic</item>
+    </string-array>
+    
+    <string-array name="electronic">
+        <item>laptop</item>
+        <item>Phone</item>
+        <item>Computer</item>
+        <item>Tablet</item>
+        <item>TV</item>
+    </string-array>
+
+
+
+</resources>
